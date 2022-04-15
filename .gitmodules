@@ -1,0 +1,531 @@
+[submodule "terraform-aws-lambda-function"]
+	path = terraform-aws-lambda-function
+	url = https://github.com/cloudposse/terraform-aws-lambda-function
+[submodule "terraform-aws-components"]
+	path = terraform-aws-components
+	url = https://github.com/cloudposse/terraform-aws-components
+[submodule "terraform-aws-s3-bucket"]
+	path = terraform-aws-s3-bucket
+	url = https://github.com/cloudposse/terraform-aws-s3-bucket
+[submodule "terraform-aws-dynamic-subnets"]
+	path = terraform-aws-dynamic-subnets
+	url = https://github.com/cloudposse/terraform-aws-dynamic-subnets
+[submodule "terraform-aws-api-gateway"]
+	path = terraform-aws-api-gateway
+	url = https://github.com/cloudposse/terraform-aws-api-gateway
+[submodule "terraform-aws-ec2-client-vpn"]
+	path = terraform-aws-ec2-client-vpn
+	url = https://github.com/cloudposse/terraform-aws-ec2-client-vpn
+[submodule "terraform-aws-cloudwatch-logs"]
+	path = terraform-aws-cloudwatch-logs
+	url = https://github.com/cloudposse/terraform-aws-cloudwatch-logs
+[submodule "terraform-aws-ec2-instance"]
+	path = terraform-aws-ec2-instance
+	url = https://github.com/cloudposse/terraform-aws-ec2-instance
+[submodule "terraform-aws-documentdb-cluster"]
+	path = terraform-aws-documentdb-cluster
+	url = https://github.com/cloudposse/terraform-aws-documentdb-cluster
+[submodule "terraform-aws-mwaa"]
+	path = terraform-aws-mwaa
+	url = https://github.com/cloudposse/terraform-aws-mwaa
+[submodule "terraform-aws-ec2-instance-group"]
+	path = terraform-aws-ec2-instance-group
+	url = https://github.com/cloudposse/terraform-aws-ec2-instance-group
+[submodule "terraform-aws-cloudfront-s3-cdn"]
+	path = terraform-aws-cloudfront-s3-cdn
+	url = https://github.com/cloudposse/terraform-aws-cloudfront-s3-cdn
+[submodule "terraform-aws-inspector"]
+	path = terraform-aws-inspector
+	url = https://github.com/cloudposse/terraform-aws-inspector
+[submodule "terraform-aws-iam-role"]
+	path = terraform-aws-iam-role
+	url = https://github.com/cloudposse/terraform-aws-iam-role
+[submodule "terraform-aws-alb"]
+	path = terraform-aws-alb
+	url = https://github.com/cloudposse/terraform-aws-alb
+[submodule "terraform-aws-rds"]
+	path = terraform-aws-rds
+	url = https://github.com/cloudposse/terraform-aws-rds
+[submodule "terraform-aws-config"]
+	path = terraform-aws-config
+	url = https://github.com/cloudposse/terraform-aws-config
+[submodule "terraform-aws-multi-az-subnets"]
+	path = terraform-aws-multi-az-subnets
+	url = https://github.com/cloudposse/terraform-aws-multi-az-subnets
+[submodule "terraform-aws-rds-cluster"]
+	path = terraform-aws-rds-cluster
+	url = https://github.com/cloudposse/terraform-aws-rds-cluster
+[submodule "terraform-aws-s3-website"]
+	path = terraform-aws-s3-website
+	url = https://github.com/cloudposse/terraform-aws-s3-website
+[submodule "terraform-aws-sns-topic"]
+	path = terraform-aws-sns-topic
+	url = https://github.com/cloudposse/terraform-aws-sns-topic
+[submodule "terraform-aws-rds-db-proxy"]
+	path = terraform-aws-rds-db-proxy
+	url = https://github.com/cloudposse/terraform-aws-rds-db-proxy
+[submodule "terraform-aws-firewall-manager"]
+	path = terraform-aws-firewall-manager
+	url = https://github.com/cloudposse/terraform-aws-firewall-manager
+[submodule "terraform-aws-msk-apache-kafka-cluster"]
+	path = terraform-aws-msk-apache-kafka-cluster
+	url = https://github.com/cloudposse/terraform-aws-msk-apache-kafka-cluster
+[submodule "terraform-aws-elastic-beanstalk-environment"]
+	path = terraform-aws-elastic-beanstalk-environment
+	url = https://github.com/cloudposse/terraform-aws-elastic-beanstalk-environment
+[submodule "terraform-aws-tfstate-backend"]
+	path = terraform-aws-tfstate-backend
+	url = https://github.com/cloudposse/terraform-aws-tfstate-backend
+[submodule "terraform-aws-cloudfront-cdn"]
+	path = terraform-aws-cloudfront-cdn
+	url = https://github.com/cloudposse/terraform-aws-cloudfront-cdn
+[submodule "terraform-aws-config-storage"]
+	path = terraform-aws-config-storage
+	url = https://github.com/cloudposse/terraform-aws-config-storage
+[submodule "terraform-aws-ses-lambda-forwarder"]
+	path = terraform-aws-ses-lambda-forwarder
+	url = https://github.com/cloudposse/terraform-aws-ses-lambda-forwarder
+[submodule "terraform-aws-ecs-alb-service-task"]
+	path = terraform-aws-ecs-alb-service-task
+	url = https://github.com/cloudposse/terraform-aws-ecs-alb-service-task
+[submodule "terraform-aws-transit-gateway"]
+	path = terraform-aws-transit-gateway
+	url = https://github.com/cloudposse/terraform-aws-transit-gateway
+[submodule "terraform-aws-elasticache-memcached"]
+	path = terraform-aws-elasticache-memcached
+	url = https://github.com/cloudposse/terraform-aws-elasticache-memcached
+[submodule "terraform-aws-ec2-autoscale-group"]
+	path = terraform-aws-ec2-autoscale-group
+	url = https://github.com/cloudposse/terraform-aws-ec2-autoscale-group
+[submodule "terraform-aws-ecs-web-app"]
+	path = terraform-aws-ecs-web-app
+	url = https://github.com/cloudposse/terraform-aws-ecs-web-app
+[submodule "terraform-aws-ssm-patch-manager"]
+	path = terraform-aws-ssm-patch-manager
+	url = https://github.com/cloudposse/terraform-aws-ssm-patch-manager
+[submodule "terraform-aws-elasticsearch"]
+	path = terraform-aws-elasticsearch
+	url = https://github.com/cloudposse/terraform-aws-elasticsearch
+[submodule "terraform-aws-ses"]
+	path = terraform-aws-ses
+	url = https://github.com/cloudposse/terraform-aws-ses
+[submodule "terraform-aws-iam-s3-user"]
+	path = terraform-aws-iam-s3-user
+	url = https://github.com/cloudposse/terraform-aws-iam-s3-user
+[submodule "terraform-aws-datadog-lambda-forwarder"]
+	path = terraform-aws-datadog-lambda-forwarder
+	url = https://github.com/cloudposse/terraform-aws-datadog-lambda-forwarder
+[submodule "terraform-aws-cicd"]
+	path = terraform-aws-cicd
+	url = https://github.com/cloudposse/terraform-aws-cicd
+[submodule "terraform-aws-key-pair"]
+	path = terraform-aws-key-pair
+	url = https://github.com/cloudposse/terraform-aws-key-pair
+[submodule "terraform-aws-ecr"]
+	path = terraform-aws-ecr
+	url = https://github.com/cloudposse/terraform-aws-ecr
+[submodule "terraform-aws-codebuild"]
+	path = terraform-aws-codebuild
+	url = https://github.com/cloudposse/terraform-aws-codebuild
+[submodule "terraform-aws-service-control-policies"]
+	path = terraform-aws-service-control-policies
+	url = https://github.com/cloudposse/terraform-aws-service-control-policies
+[submodule "terraform-aws-budgets"]
+	path = terraform-aws-budgets
+	url = https://github.com/cloudposse/terraform-aws-budgets
+[submodule "terraform-aws-mq-broker"]
+	path = terraform-aws-mq-broker
+	url = https://github.com/cloudposse/terraform-aws-mq-broker
+[submodule "terraform-aws-glue-trigger"]
+	path = terraform-aws-glue-trigger
+	url = https://github.com/cloudposse/terraform-aws-glue-trigger
+[submodule "terraform-aws-glue-workflow"]
+	path = terraform-aws-glue-workflow
+	url = https://github.com/cloudposse/terraform-aws-glue-workflow
+[submodule "terraform-aws-glue-job"]
+	path = terraform-aws-glue-job
+	url = https://github.com/cloudposse/terraform-aws-glue-job
+[submodule "terraform-aws-backup"]
+	path = terraform-aws-backup
+	url = https://github.com/cloudposse/terraform-aws-backup
+[submodule "terraform-aws-named-subnets"]
+	path = terraform-aws-named-subnets
+	url = https://github.com/cloudposse/terraform-aws-named-subnets
+[submodule "terraform-aws-emr-cluster"]
+	path = terraform-aws-emr-cluster
+	url = https://github.com/cloudposse/terraform-aws-emr-cluster
+[submodule "terraform-aws-ecr-public"]
+	path = terraform-aws-ecr-public
+	url = https://github.com/cloudposse/terraform-aws-ecr-public
+[submodule "terraform-aws-elasticache-redis"]
+	path = terraform-aws-elasticache-redis
+	url = https://github.com/cloudposse/terraform-aws-elasticache-redis
+[submodule "terraform-aws-glue-connection"]
+	path = terraform-aws-glue-connection
+	url = https://github.com/cloudposse/terraform-aws-glue-connection
+[submodule "terraform-aws-iam-system-user"]
+	path = terraform-aws-iam-system-user
+	url = https://github.com/cloudposse/terraform-aws-iam-system-user
+[submodule "terraform-aws-ecs-atlantis"]
+	path = terraform-aws-ecs-atlantis
+	url = https://github.com/cloudposse/terraform-aws-ecs-atlantis
+[submodule "terraform-aws-jenkins"]
+	path = terraform-aws-jenkins
+	url = https://github.com/cloudposse/terraform-aws-jenkins
+[submodule "terraform-aws-cloudtrail-s3-bucket"]
+	path = terraform-aws-cloudtrail-s3-bucket
+	url = https://github.com/cloudposse/terraform-aws-cloudtrail-s3-bucket
+[submodule "terraform-aws-alb-target-group-cloudwatch-sns-alarms"]
+	path = terraform-aws-alb-target-group-cloudwatch-sns-alarms
+	url = https://github.com/cloudposse/terraform-aws-alb-target-group-cloudwatch-sns-alarms
+[submodule "terraform-aws-guardduty"]
+	path = terraform-aws-guardduty
+	url = https://github.com/cloudposse/terraform-aws-guardduty
+[submodule "terraform-aws-security-hub"]
+	path = terraform-aws-security-hub
+	url = https://github.com/cloudposse/terraform-aws-security-hub
+[submodule "terraform-aws-s3-log-storage"]
+	path = terraform-aws-s3-log-storage
+	url = https://github.com/cloudposse/terraform-aws-s3-log-storage
+[submodule "terraform-aws-sso"]
+	path = terraform-aws-sso
+	url = https://github.com/cloudposse/terraform-aws-sso
+[submodule "terraform-aws-ecs-codepipeline"]
+	path = terraform-aws-ecs-codepipeline
+	url = https://github.com/cloudposse/terraform-aws-ecs-codepipeline
+[submodule "terraform-aws-rds-replica"]
+	path = terraform-aws-rds-replica
+	url = https://github.com/cloudposse/terraform-aws-rds-replica
+[submodule "terraform-aws-eks-node-group"]
+	path = terraform-aws-eks-node-group
+	url = https://github.com/cloudposse/terraform-aws-eks-node-group
+[submodule "terraform-aws-vpc"]
+	path = terraform-aws-vpc
+	url = https://github.com/cloudposse/terraform-aws-vpc
+[submodule "terraform-aws-route53-cluster-zone"]
+	path = terraform-aws-route53-cluster-zone
+	url = https://github.com/cloudposse/terraform-aws-route53-cluster-zone
+[submodule "terraform-aws-ssm-tls-self-signed-cert"]
+	path = terraform-aws-ssm-tls-self-signed-cert
+	url = https://github.com/cloudposse/terraform-aws-ssm-tls-self-signed-cert
+[submodule "terraform-aws-eks-cluster"]
+	path = terraform-aws-eks-cluster
+	url = https://github.com/cloudposse/terraform-aws-eks-cluster
+[submodule "terraform-aws-waf"]
+	path = terraform-aws-waf
+	url = https://github.com/cloudposse/terraform-aws-waf
+[submodule "terraform-aws-efs"]
+	path = terraform-aws-efs
+	url = https://github.com/cloudposse/terraform-aws-efs
+[submodule "terraform-aws-helm-release"]
+	path = terraform-aws-helm-release
+	url = https://github.com/cloudposse/terraform-aws-helm-release
+[submodule "terraform-aws-ec2-bastion-server"]
+	path = terraform-aws-ec2-bastion-server
+	url = https://github.com/cloudposse/terraform-aws-ec2-bastion-server
+[submodule "terraform-aws-vpn-connection"]
+	path = terraform-aws-vpn-connection
+	url = https://github.com/cloudposse/terraform-aws-vpn-connection
+[submodule "terraform-aws-bossy"]
+	path = terraform-aws-bossy
+	url = https://github.com/cloudposse/terraform-aws-bossy
+[submodule "terraform-aws-global-accelerator"]
+	path = terraform-aws-global-accelerator
+	url = https://github.com/cloudposse/terraform-aws-global-accelerator
+[submodule "terraform-aws-rds-cloudwatch-sns-alarms"]
+	path = terraform-aws-rds-cloudwatch-sns-alarms
+	url = https://github.com/cloudposse/terraform-aws-rds-cloudwatch-sns-alarms
+[submodule "terraform-aws-ecs-cloudwatch-sns-alarms"]
+	path = terraform-aws-ecs-cloudwatch-sns-alarms
+	url = https://github.com/cloudposse/terraform-aws-ecs-cloudwatch-sns-alarms
+[submodule "terraform-aws-eks-workers"]
+	path = terraform-aws-eks-workers
+	url = https://github.com/cloudposse/terraform-aws-eks-workers
+[submodule "terraform-aws-ecs-cloudwatch-autoscaling"]
+	path = terraform-aws-ecs-cloudwatch-autoscaling
+	url = https://github.com/cloudposse/terraform-aws-ecs-cloudwatch-autoscaling
+[submodule "terraform-aws-glue"]
+	path = terraform-aws-glue
+	url = https://github.com/cloudposse/terraform-aws-glue
+[submodule "terraform-aws-kms-key"]
+	path = terraform-aws-kms-key
+	url = https://github.com/cloudposse/terraform-aws-kms-key
+[submodule "terraform-aws-route53-alias"]
+	path = terraform-aws-route53-alias
+	url = https://github.com/cloudposse/terraform-aws-route53-alias
+[submodule "terraform-aws-dynamodb"]
+	path = terraform-aws-dynamodb
+	url = https://github.com/cloudposse/terraform-aws-dynamodb
+[submodule "terraform-aws-ssm-parameter-store"]
+	path = terraform-aws-ssm-parameter-store
+	url = https://github.com/cloudposse/terraform-aws-ssm-parameter-store
+[submodule "terraform-aws-eks-iam-role"]
+	path = terraform-aws-eks-iam-role
+	url = https://github.com/cloudposse/terraform-aws-eks-iam-role
+[submodule "terraform-aws-datadog-integration"]
+	path = terraform-aws-datadog-integration
+	url = https://github.com/cloudposse/terraform-aws-datadog-integration
+[submodule "terraform-aws-vpc-peering"]
+	path = terraform-aws-vpc-peering
+	url = https://github.com/cloudposse/terraform-aws-vpc-peering
+[submodule "terraform-aws-acm-request-certificate"]
+	path = terraform-aws-acm-request-certificate
+	url = https://github.com/cloudposse/terraform-aws-acm-request-certificate
+[submodule "terraform-aws-service-quotas"]
+	path = terraform-aws-service-quotas
+	url = https://github.com/cloudposse/terraform-aws-service-quotas
+[submodule "terraform-aws-ecs-container-definition"]
+	path = terraform-aws-ecs-container-definition
+	url = https://github.com/cloudposse/terraform-aws-ecs-container-definition
+[submodule "terraform-aws-lb-s3-bucket"]
+	path = terraform-aws-lb-s3-bucket
+	url = https://github.com/cloudposse/terraform-aws-lb-s3-bucket
+[submodule "terraform-aws-security-group"]
+	path = terraform-aws-security-group
+	url = https://github.com/cloudposse/terraform-aws-security-group
+[submodule "terraform-aws-iam-policy"]
+	path = terraform-aws-iam-policy
+	url = https://github.com/cloudposse/terraform-aws-iam-policy
+[submodule "terraform-aws-teleport-storage"]
+	path = terraform-aws-teleport-storage
+	url = https://github.com/cloudposse/terraform-aws-teleport-storage
+[submodule "terraform-aws-lambda-elasticsearch-cleanup"]
+	path = terraform-aws-lambda-elasticsearch-cleanup
+	url = https://github.com/cloudposse/terraform-aws-lambda-elasticsearch-cleanup
+[submodule "terraform-aws-eks-spotinst-ocean-nodepool"]
+	path = terraform-aws-eks-spotinst-ocean-nodepool
+	url = https://github.com/cloudposse/terraform-aws-eks-spotinst-ocean-nodepool
+[submodule "terraform-aws-code-deploy"]
+	path = terraform-aws-code-deploy
+	url = https://github.com/cloudposse/terraform-aws-code-deploy
+[submodule "terraform-aws-vpc-peering-multi-account"]
+	path = terraform-aws-vpc-peering-multi-account
+	url = https://github.com/cloudposse/terraform-aws-vpc-peering-multi-account
+[submodule "terraform-aws-sns-lambda-notify-slack"]
+	path = terraform-aws-sns-lambda-notify-slack
+	url = https://github.com/cloudposse/terraform-aws-sns-lambda-notify-slack
+[submodule "terraform-aws-iam-chamber-s3-role"]
+	path = terraform-aws-iam-chamber-s3-role
+	url = https://github.com/cloudposse/terraform-aws-iam-chamber-s3-role
+[submodule "terraform-aws-alb-ingress"]
+	path = terraform-aws-alb-ingress
+	url = https://github.com/cloudposse/terraform-aws-alb-ingress
+[submodule "terraform-aws-transfer-sftp"]
+	path = terraform-aws-transfer-sftp
+	url = https://github.com/cloudposse/terraform-aws-transfer-sftp
+[submodule "terraform-aws-macie"]
+	path = terraform-aws-macie
+	url = https://github.com/cloudposse/terraform-aws-macie
+[submodule "learn-terraform-aws-control-tower-aft-archived"]
+	path = learn-terraform-aws-control-tower-aft-archived
+	url = https://github.com/cloudposse/learn-terraform-aws-control-tower-aft-archived
+[submodule "terraform-aws-cloudtrail"]
+	path = terraform-aws-cloudtrail
+	url = https://github.com/cloudposse/terraform-aws-cloudtrail
+[submodule "terraform-aws-health-events"]
+	path = terraform-aws-health-events
+	url = https://github.com/cloudposse/terraform-aws-health-events
+[submodule "terraform-aws-ssm-tls-ssh-key-pair"]
+	path = terraform-aws-ssm-tls-ssh-key-pair
+	url = https://github.com/cloudposse/terraform-aws-ssm-tls-ssh-key-pair
+[submodule "terraform-aws-elastic-beanstalk-application"]
+	path = terraform-aws-elastic-beanstalk-application
+	url = https://github.com/cloudposse/terraform-aws-elastic-beanstalk-application
+[submodule "terraform-aws-redshift-cluster"]
+	path = terraform-aws-redshift-cluster
+	url = https://github.com/cloudposse/terraform-aws-redshift-cluster
+[submodule "terraform-aws-cloudwatch-events"]
+	path = terraform-aws-cloudwatch-events
+	url = https://github.com/cloudposse/terraform-aws-cloudwatch-events
+[submodule "terraform-aws-sns-cloudwatch-sns-alarms"]
+	path = terraform-aws-sns-cloudwatch-sns-alarms
+	url = https://github.com/cloudposse/terraform-aws-sns-cloudwatch-sns-alarms
+[submodule "terraform-aws-sqs-queue"]
+	path = terraform-aws-sqs-queue
+	url = https://github.com/cloudposse/terraform-aws-sqs-queue
+[submodule "terraform-aws-vpc-flow-logs-s3-bucket"]
+	path = terraform-aws-vpc-flow-logs-s3-bucket
+	url = https://github.com/cloudposse/terraform-aws-vpc-flow-logs-s3-bucket
+[submodule "terraform-aws-dynamodb-autoscaler"]
+	path = terraform-aws-dynamodb-autoscaler
+	url = https://github.com/cloudposse/terraform-aws-dynamodb-autoscaler
+[submodule "terraform-aws-nlb"]
+	path = terraform-aws-nlb
+	url = https://github.com/cloudposse/terraform-aws-nlb
+[submodule "terraform-aws-eks-fargate-profile"]
+	path = terraform-aws-eks-fargate-profile
+	url = https://github.com/cloudposse/terraform-aws-eks-fargate-profile
+[submodule "terraform-aws-route53-cluster-hostname"]
+	path = terraform-aws-route53-cluster-hostname
+	url = https://github.com/cloudposse/terraform-aws-route53-cluster-hostname
+[submodule "terraform-aws-utils"]
+	path = terraform-aws-utils
+	url = https://github.com/cloudposse/terraform-aws-utils
+[submodule "terraform-aws-cloudtrail-cloudwatch-alarms"]
+	path = terraform-aws-cloudtrail-cloudwatch-alarms
+	url = https://github.com/cloudposse/terraform-aws-cloudtrail-cloudwatch-alarms
+[submodule "terraform-aws-efs-backup"]
+	path = terraform-aws-efs-backup
+	url = https://github.com/cloudposse/terraform-aws-efs-backup
+[submodule "terraform-aws-iam-account-settings"]
+	path = terraform-aws-iam-account-settings
+	url = https://github.com/cloudposse/terraform-aws-iam-account-settings
+[submodule "terraform-aws-iam-user"]
+	path = terraform-aws-iam-user
+	url = https://github.com/cloudposse/terraform-aws-iam-user
+[submodule "terraform-aws-cloudformation-stack"]
+	path = terraform-aws-cloudformation-stack
+	url = https://github.com/cloudposse/terraform-aws-cloudformation-stack
+[submodule "terraform-aws-ssm-iam-role"]
+	path = terraform-aws-ssm-iam-role
+	url = https://github.com/cloudposse/terraform-aws-ssm-iam-role
+[submodule "terraform-aws-ec2-ami-backup"]
+	path = terraform-aws-ec2-ami-backup
+	url = https://github.com/cloudposse/terraform-aws-ec2-ami-backup
+[submodule "terraform-aws-cloudwatch-flow-logs"]
+	path = terraform-aws-cloudwatch-flow-logs
+	url = https://github.com/cloudposse/terraform-aws-cloudwatch-flow-logs
+[submodule "terraform-aws-iam-policy-document-aggregator"]
+	path = terraform-aws-iam-policy-document-aggregator
+	url = https://github.com/cloudposse/terraform-aws-iam-policy-document-aggregator
+[submodule "terraform-aws-user-data-cloud"]
+	path = terraform-aws-user-data-cloud
+	url = https://github.com/cloudposse/terraform-aws-user-data-cloud
+[submodule "terraform-aws-user-data-assets"]
+	path = terraform-aws-user-data-assets
+	url = https://github.com/cloudposse/terraform-aws-user-data-assets
+[submodule "terraform-aws-kops-vpc-peering"]
+	path = terraform-aws-kops-vpc-peering
+	url = https://github.com/cloudposse/terraform-aws-kops-vpc-peering
+[submodule "terraform-aws-kops-route53"]
+	path = terraform-aws-kops-route53
+	url = https://github.com/cloudposse/terraform-aws-kops-route53
+[submodule "terraform-aws-kops-iam-authenticator-config"]
+	path = terraform-aws-kops-iam-authenticator-config
+	url = https://github.com/cloudposse/terraform-aws-kops-iam-authenticator-config
+[submodule "terraform-aws-kops-external-dns"]
+	path = terraform-aws-kops-external-dns
+	url = https://github.com/cloudposse/terraform-aws-kops-external-dns
+[submodule "terraform-aws-kops-efs"]
+	path = terraform-aws-kops-efs
+	url = https://github.com/cloudposse/terraform-aws-kops-efs
+[submodule "terraform-aws-kops-data-network"]
+	path = terraform-aws-kops-data-network
+	url = https://github.com/cloudposse/terraform-aws-kops-data-network
+[submodule "terraform-aws-kops-data-instance-groups"]
+	path = terraform-aws-kops-data-instance-groups
+	url = https://github.com/cloudposse/terraform-aws-kops-data-instance-groups
+[submodule "terraform-aws-kops-data-iam"]
+	path = terraform-aws-kops-data-iam
+	url = https://github.com/cloudposse/terraform-aws-kops-data-iam
+[submodule "terraform-aws-kops-aws-alb-ingress"]
+	path = terraform-aws-kops-aws-alb-ingress
+	url = https://github.com/cloudposse/terraform-aws-kops-aws-alb-ingress
+[submodule "terraform-aws-kops-atlantis"]
+	path = terraform-aws-kops-atlantis
+	url = https://github.com/cloudposse/terraform-aws-kops-atlantis
+[submodule "terraform-aws-codefresh-backing-services"]
+	path = terraform-aws-codefresh-backing-services
+	url = https://github.com/cloudposse/terraform-aws-codefresh-backing-services
+[submodule "terraform-aws-cloudwatch-agent"]
+	path = terraform-aws-cloudwatch-agent
+	url = https://github.com/cloudposse/terraform-aws-cloudwatch-agent
+[submodule "terraform-aws-config-iam-role"]
+	path = terraform-aws-config-iam-role
+	url = https://github.com/cloudposse/terraform-aws-config-iam-role
+[submodule "terraform-aws-iam-assumed-roles"]
+	path = terraform-aws-iam-assumed-roles
+	url = https://github.com/cloudposse/terraform-aws-iam-assumed-roles
+[submodule "terraform-aws-user-data-s3-backend"]
+	path = terraform-aws-user-data-s3-backend
+	url = https://github.com/cloudposse/terraform-aws-user-data-s3-backend
+[submodule "terraform-aws-efs-cloudwatch-sns-alarms"]
+	path = terraform-aws-efs-cloudwatch-sns-alarms
+	url = https://github.com/cloudposse/terraform-aws-efs-cloudwatch-sns-alarms
+[submodule "terraform-aws-user-data-dba"]
+	path = terraform-aws-user-data-dba
+	url = https://github.com/cloudposse/terraform-aws-user-data-dba
+[submodule "terraform-aws-ec2-ami-snapshot"]
+	path = terraform-aws-ec2-ami-snapshot
+	url = https://github.com/cloudposse/terraform-aws-ec2-ami-snapshot
+[submodule "terraform-aws-kops-state-backend"]
+	path = terraform-aws-kops-state-backend
+	url = https://github.com/cloudposse/terraform-aws-kops-state-backend
+[submodule "terraform-aws-kops-chart-repo"]
+	path = terraform-aws-kops-chart-repo
+	url = https://github.com/cloudposse/terraform-aws-kops-chart-repo
+[submodule "terraform-aws-organization-access-group"]
+	path = terraform-aws-organization-access-group
+	url = https://github.com/cloudposse/terraform-aws-organization-access-group
+[submodule "terraform-aws-rds-cluster-instance-group"]
+	path = terraform-aws-rds-cluster-instance-group
+	url = https://github.com/cloudposse/terraform-aws-rds-cluster-instance-group
+[submodule "terraform-aws-kops-ecr"]
+	path = terraform-aws-kops-ecr
+	url = https://github.com/cloudposse/terraform-aws-kops-ecr
+[submodule "terraform-aws-ssm-parameter-chamber-reader"]
+	path = terraform-aws-ssm-parameter-chamber-reader
+	url = https://github.com/cloudposse/terraform-aws-ssm-parameter-chamber-reader
+[submodule "terraform-aws-kops-vault-backend"]
+	path = terraform-aws-kops-vault-backend
+	url = https://github.com/cloudposse/terraform-aws-kops-vault-backend
+[submodule "terraform-aws-ec2-admin-server"]
+	path = terraform-aws-ec2-admin-server
+	url = https://github.com/cloudposse/terraform-aws-ec2-admin-server
+[submodule "terraform-aws-cloudformation-stack-set"]
+	path = terraform-aws-cloudformation-stack-set
+	url = https://github.com/cloudposse/terraform-aws-cloudformation-stack-set
+[submodule "terraform-aws-iam-chamber-user"]
+	path = terraform-aws-iam-chamber-user
+	url = https://github.com/cloudposse/terraform-aws-iam-chamber-user
+[submodule "terraform-aws-organization-access-role"]
+	path = terraform-aws-organization-access-role
+	url = https://github.com/cloudposse/terraform-aws-organization-access-role
+[submodule "terraform-aws-sqs-cloudwatch-sns-alarms"]
+	path = terraform-aws-sqs-cloudwatch-sns-alarms
+	url = https://github.com/cloudposse/terraform-aws-sqs-cloudwatch-sns-alarms
+[submodule "terraform-aws-test-module"]
+	path = terraform-aws-test-module
+	url = https://github.com/cloudposse/terraform-aws-test-module
+[submodule "terraform-aws-ssm-parameter-store-policy-documents"]
+	path = terraform-aws-ssm-parameter-store-policy-documents
+	url = https://github.com/cloudposse/terraform-aws-ssm-parameter-store-policy-documents
+[submodule "terraform-aws-kops-metadata"]
+	path = terraform-aws-kops-metadata
+	url = https://github.com/cloudposse/terraform-aws-kops-metadata
+[submodule "terraform-aws-spotinst-mrscaler"]
+	path = terraform-aws-spotinst-mrscaler
+	url = https://github.com/cloudposse/terraform-aws-spotinst-mrscaler
+[submodule "terraform-aws-cloudwatch-sns-topic-notify"]
+	path = terraform-aws-cloudwatch-sns-topic-notify
+	url = https://github.com/cloudposse/terraform-aws-cloudwatch-sns-topic-notify
+[submodule "terraform-aws-vpc-peering-multi-account-request"]
+	path = terraform-aws-vpc-peering-multi-account-request
+	url = https://github.com/cloudposse/terraform-aws-vpc-peering-multi-account-request
+[submodule "terraform-aws-kops-chamber"]
+	path = terraform-aws-kops-chamber
+	url = https://github.com/cloudposse/terraform-aws-kops-chamber
+[submodule "terraform-aws-user-data-resolv-conf"]
+	path = terraform-aws-user-data-resolv-conf
+	url = https://github.com/cloudposse/terraform-aws-user-data-resolv-conf
+[submodule "terraform-aws-user-data-dns-proxy"]
+	path = terraform-aws-user-data-dns-proxy
+	url = https://github.com/cloudposse/terraform-aws-user-data-dns-proxy
+[submodule "terraform-aws-ecs-launch-template"]
+	path = terraform-aws-ecs-launch-template
+	url = https://github.com/cloudposse/terraform-aws-ecs-launch-template
+[submodule "terraform-aws-s3-logs-athena-query"]
+	path = terraform-aws-s3-logs-athena-query
+	url = https://github.com/cloudposse/terraform-aws-s3-logs-athena-query
+[submodule "terraform-aws-lambda-cloudwatch-sns-alarms"]
+	path = terraform-aws-lambda-cloudwatch-sns-alarms
+	url = https://github.com/cloudposse/terraform-aws-lambda-cloudwatch-sns-alarms
+[submodule "terraform-aws-ecs-spot-fleet"]
+	path = terraform-aws-ecs-spot-fleet
+	url = https://github.com/cloudposse/terraform-aws-ecs-spot-fleet
+[submodule "terraform-aws-elasticache-cloudwatch-sns-alarms"]
+	path = terraform-aws-elasticache-cloudwatch-sns-alarms
+	url = https://github.com/cloudposse/terraform-aws-elasticache-cloudwatch-sns-alarms
+[submodule "terraform-aws-ecs-events"]
+	path = terraform-aws-ecs-events
+	url = https://github.com/cloudposse/terraform-aws-ecs-events
